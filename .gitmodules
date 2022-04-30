@@ -1,0 +1,3 @@
+[submodule "djmaxsort"]
+	path = djmaxsort
+	url = https://github.com/shockdude/djmax-song-sorter.git
